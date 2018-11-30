@@ -1,0 +1,83 @@
+--- 
+files: 
+  certificate: 
+    alaameed_com_ab246_0adc9_1574541100_04f6914fe92df9d0fb2bf0825e8662f3: 
+      created: '1543005101'
+      domains: 
+        - alaameed.com
+        - mail.alaameed.com
+        - www.alaameed.com
+        - webmail.alaameed.com
+        - cpanel.alaameed.com
+        - webdisk.alaameed.com
+        - autodiscover.alaameed.com
+      friendly_name: Cert for “alaameed.com”
+      id: alaameed_com_ab246_0adc9_1574541100_04f6914fe92df9d0fb2bf0825e8662f3
+      is_self_signed: 1
+      issuer.commonName: alaameed.com
+      issuer.organizationName: ~
+      modulus: ab246474449923f94f5db58be12ec35875ef5fcaced98e63c9bc596ae477558192f4526c54e3ac8318923a50bfec73a6993c355452d7395f79894e98d44e9dcfd090524fad933b83513d894fdc6dd3785fa05d02398492fb442ba7e5e0c734200cbd70f4ddbc9e47a9f6dbd3dc95f6996ec625dad1db9e2e2fd81a752eb26138412fc5668679771c51b5bfef1f02eee8eede53c6c1e9f39c1592f60a6372ffb3b57f39daf20d9a9c0f3a3e439b67c77f930d84c5274b589f72d3914dbd749abc462fd10ea6821f4f17624be0be648c49547039eef8ec16503e31a2e98198e5e159601dd8197ccfb476d5e8a97062ed690f7599672c5295cfe8dd8d1220f0adc9
+      modulus_length: 2048
+      not_after: '1574541100'
+      not_before: '1543005100'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: alaameed.com
+      validation_type: ~
+    alaameed_com_d5ab6_28f49_1550793599_127eb68015486887bc0e6e490af4c908: 
+      created: '1543005483'
+      domains: 
+        - alaameed.com
+        - autodiscover.alaameed.com
+        - cpanel.alaameed.com
+        - mail.alaameed.com
+        - webdisk.alaameed.com
+        - webmail.alaameed.com
+        - www.alaameed.com
+      friendly_name: Cert for “alaameed.com” 1543005483.0
+      id: alaameed_com_d5ab6_28f49_1550793599_127eb68015486887bc0e6e490af4c908
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      modulus: d5ab66a6e1a2da703f2affc98b93889ff85aa01746e9cb64df845960cba4323f28b689446fe39f1e4ec4d53e635f5ac2257f6cc7250db8748bf24b7e75e2450b99cbe0d782a4f91ea45e92611eb0cb4ec68012580ea40c45b5bd745bfa0728ecc9bcc5ffe1f7325bec684a2460d1c83a8920dcf6e963d80b4083f339b4be1cf992525092fcb57538f52ca1c5724b2f833775bd301eea71a224f1eaf333c4422afbfc3a0603a716bde89e2326151b651974e7bf8b3c3bd3aca98371bd1eb87b12986accebfa6c8a8535a6c63708379fc12959537a348d9d5a4369583d17db96fb1bac19e6bdabd93b193bce038806cb36e9706c6fc35d946ab3f27fae0af28f49
+      modulus_length: 2048
+      not_after: '1550793599'
+      not_before: '1542931200'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: alaameed.com
+      validation_type: dv
+  key: 
+    ab246_0adc9_975e4b398cbc21920412cd708e165a9f: 
+      created: '1543005101'
+      friendly_name: Key for “alaameed.com”
+      id: ab246_0adc9_975e4b398cbc21920412cd708e165a9f
+      modulus: ab246474449923f94f5db58be12ec35875ef5fcaced98e63c9bc596ae477558192f4526c54e3ac8318923a50bfec73a6993c355452d7395f79894e98d44e9dcfd090524fad933b83513d894fdc6dd3785fa05d02398492fb442ba7e5e0c734200cbd70f4ddbc9e47a9f6dbd3dc95f6996ec625dad1db9e2e2fd81a752eb26138412fc5668679771c51b5bfef1f02eee8eede53c6c1e9f39c1592f60a6372ffb3b57f39daf20d9a9c0f3a3e439b67c77f930d84c5274b589f72d3914dbd749abc462fd10ea6821f4f17624be0be648c49547039eef8ec16503e31a2e98198e5e159601dd8197ccfb476d5e8a97062ed690f7599672c5295cfe8dd8d1220f0adc9
+      modulus_length: 2048
+    d5ab6_28f49_958aeff59e53f044b0c057887f209acf: 
+      created: '1543005483'
+      friendly_name: Key for “alaameed.com” 1543005483.0
+      id: d5ab6_28f49_958aeff59e53f044b0c057887f209acf
+      modulus: d5ab66a6e1a2da703f2affc98b93889ff85aa01746e9cb64df845960cba4323f28b689446fe39f1e4ec4d53e635f5ac2257f6cc7250db8748bf24b7e75e2450b99cbe0d782a4f91ea45e92611eb0cb4ec68012580ea40c45b5bd745bfa0728ecc9bcc5ffe1f7325bec684a2460d1c83a8920dcf6e963d80b4083f339b4be1cf992525092fcb57538f52ca1c5724b2f833775bd301eea71a224f1eaf333c4422afbfc3a0603a716bde89e2326151b651974e7bf8b3c3bd3aca98371bd1eb87b12986accebfa6c8a8535a6c63708379fc12959537a348d9d5a4369583d17db96fb1bac19e6bdabd93b193bce038806cb36e9706c6fc35d946ab3f27fae0af28f49
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      ab246474449923f94f5db58be12ec35875ef5fcaced98e63c9bc596ae477558192f4526c54e3ac8318923a50bfec73a6993c355452d7395f79894e98d44e9dcfd090524fad933b83513d894fdc6dd3785fa05d02398492fb442ba7e5e0c734200cbd70f4ddbc9e47a9f6dbd3dc95f6996ec625dad1db9e2e2fd81a752eb26138412fc5668679771c51b5bfef1f02eee8eede53c6c1e9f39c1592f60a6372ffb3b57f39daf20d9a9c0f3a3e439b67c77f930d84c5274b589f72d3914dbd749abc462fd10ea6821f4f17624be0be648c49547039eef8ec16503e31a2e98198e5e159601dd8197ccfb476d5e8a97062ed690f7599672c5295cfe8dd8d1220f0adc9: 
+        alaameed_com_ab246_0adc9_1574541100_04f6914fe92df9d0fb2bf0825e8662f3: ~
+      d5ab66a6e1a2da703f2affc98b93889ff85aa01746e9cb64df845960cba4323f28b689446fe39f1e4ec4d53e635f5ac2257f6cc7250db8748bf24b7e75e2450b99cbe0d782a4f91ea45e92611eb0cb4ec68012580ea40c45b5bd745bfa0728ecc9bcc5ffe1f7325bec684a2460d1c83a8920dcf6e963d80b4083f339b4be1cf992525092fcb57538f52ca1c5724b2f833775bd301eea71a224f1eaf333c4422afbfc3a0603a716bde89e2326151b651974e7bf8b3c3bd3aca98371bd1eb87b12986accebfa6c8a8535a6c63708379fc12959537a348d9d5a4369583d17db96fb1bac19e6bdabd93b193bce038806cb36e9706c6fc35d946ab3f27fae0af28f49: 
+        alaameed_com_d5ab6_28f49_1550793599_127eb68015486887bc0e6e490af4c908: ~
+    subject.commonName: 
+      alaameed.com: 
+        alaameed_com_ab246_0adc9_1574541100_04f6914fe92df9d0fb2bf0825e8662f3: ~
+        alaameed_com_d5ab6_28f49_1550793599_127eb68015486887bc0e6e490af4c908: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “alaameed.com”: alaameed_com_ab246_0adc9_1574541100_04f6914fe92df9d0fb2bf0825e8662f3
+      Cert for “alaameed.com” 1543005483.0: alaameed_com_d5ab6_28f49_1550793599_127eb68015486887bc0e6e490af4c908
+  key: 
+    friendly_name: 
+      Key for “alaameed.com”: ab246_0adc9_975e4b398cbc21920412cd708e165a9f
+      Key for “alaameed.com” 1543005483.0: d5ab6_28f49_958aeff59e53f044b0c057887f209acf
+    modulus: 
+      ab246474449923f94f5db58be12ec35875ef5fcaced98e63c9bc596ae477558192f4526c54e3ac8318923a50bfec73a6993c355452d7395f79894e98d44e9dcfd090524fad933b83513d894fdc6dd3785fa05d02398492fb442ba7e5e0c734200cbd70f4ddbc9e47a9f6dbd3dc95f6996ec625dad1db9e2e2fd81a752eb26138412fc5668679771c51b5bfef1f02eee8eede53c6c1e9f39c1592f60a6372ffb3b57f39daf20d9a9c0f3a3e439b67c77f930d84c5274b589f72d3914dbd749abc462fd10ea6821f4f17624be0be648c49547039eef8ec16503e31a2e98198e5e159601dd8197ccfb476d5e8a97062ed690f7599672c5295cfe8dd8d1220f0adc9: ab246_0adc9_975e4b398cbc21920412cd708e165a9f
+      d5ab66a6e1a2da703f2affc98b93889ff85aa01746e9cb64df845960cba4323f28b689446fe39f1e4ec4d53e635f5ac2257f6cc7250db8748bf24b7e75e2450b99cbe0d782a4f91ea45e92611eb0cb4ec68012580ea40c45b5bd745bfa0728ecc9bcc5ffe1f7325bec684a2460d1c83a8920dcf6e963d80b4083f339b4be1cf992525092fcb57538f52ca1c5724b2f833775bd301eea71a224f1eaf333c4422afbfc3a0603a716bde89e2326151b651974e7bf8b3c3bd3aca98371bd1eb87b12986accebfa6c8a8535a6c63708379fc12959537a348d9d5a4369583d17db96fb1bac19e6bdabd93b193bce038806cb36e9706c6fc35d946ab3f27fae0af28f49: d5ab6_28f49_958aeff59e53f044b0c057887f209acf
